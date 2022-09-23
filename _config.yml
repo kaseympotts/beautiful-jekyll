@@ -11,9 +11,10 @@
 
 # Name of website
 title: My Website
+description: Proof that I can do all things through spite, which strengthens me
 
 # Your name to show in the footer
-author: Some Person
+author: Kasey Potts
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -49,20 +50,20 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
+  email: "kpotts6@asu.edu"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+  facebook: 
+  github: kaseympotts
+  twitter: 
+  patreon: 
+  youtube: 
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-#  instagram: deanat78
+  instagram: bomblet
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
@@ -94,7 +95,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
