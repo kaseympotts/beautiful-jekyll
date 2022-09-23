@@ -1,16 +1,20 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: I'm awkward; here's a cookie!
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hi. I'm Kasey. I do stuff:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- I bake excellent cookies. So excellent my coworkers are glad that waist measurement is gone from the AF PT test. 
+- I love my family. And family means our dogs and my husband. He's pretty great, even if he knows nothing about coding. 
+- I've been old since I was 6 years of age. I knit, crochet, quilt, etc when I'm not at work or doing homework for this degree. 
 
-What else do you need?
+Dogs. Family. Cookies. Quilts. 
+That's me. 
 
 ### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I'm also old IRL. So old, at one time we used AOL to IM our IRL friends while we built our MySpace pages. Some of this assignment feels like a flashback to that time. If only there were a link to embed my favorite Flyleaf song from back in the day...
+Don't tell me 37 isn't old. You know nothing, Jon Snow.  I've seen enough winters for a lifetime, and am currently relishing life on a subtropical island for the next three years. 
+I'm fluent in sarcasm, parle un peut de francais und ein bissen Deustch, and know enough Japanese to constantly apologize and excuse myself because I'm sure I just did something else wrong.
+And I need a nap. 
