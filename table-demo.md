@@ -103,20 +103,7 @@ pre{
             </body>  
           </html>     
 
-          ###
-          ###  {{content}}
-          ###  is replaced by
-          ###  whatever content
-          ###  is on the page that
-          ###  uses the default.html 
-          ###  template 
-          ###
-
-
-
-          ###
-          ### nice-text.html layout
-          ###
+       
 
           ---
           layout: default
@@ -136,31 +123,12 @@ pre{
           ###
 
           ---
-          layout: nice-text
+          layout: default
           ---
 
           {{ content }}
 
           #  liquid table starts here
-
-
-
-
-
-    ###
-    ###  LIQUID TABLE ADDED USING YAML DATA
-    ###
-    ###  liquid is a simple markup language that allows
-    ###  web designers to separate page layouts from
-    ###  page content without databases
-    ###
-    ###  {%  function in liquid  %}
-    ###  {{  variable in liquid  }}
-    ###
-
-        ###
-        ###  YAML HEADER FOR PAGE
-        ###
 
         ---
         layout: liquid-table
@@ -185,16 +153,6 @@ pre{
           - not ryan reynolds
         ---
 
-       ###
-       ###  LIQUID TAG TABLE IN LAYOUT
-       ###
-       ###  HTML ELEMENTS: 
-       ###  <thead> table header
-       ###  <tr>  table row 
-       ###  <td>  table cell (or data)
-       ###  <ul> unordered list
-       ###  <li> list item 
-       ###
 
         <h2> Ryan vs Ryan </h2>
 
