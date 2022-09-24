@@ -1,37 +1,4 @@
 
-###
-    ###  LAYOUT INHERITANCE
-    ###
-    ###  pages built by adding elements 
-    ###  to other page layouts 
-    ###
-
-          default.html layout 
-          │
-          └── nice-text.html layout 
-              │
-              └── liquid-table.html layout
-                  # see liquid table below
-
-
-
-          ###
-          ###  default.html layout
-          ###
-
-          <html>
-          <head>
-            <body>                                
-              <header>   
-
-              {{ content }}     
-
-              <footer>           
-            </body>  
-          </html>     
-
-       
-
           ---
           layout: default
           ---
@@ -151,11 +118,7 @@
 page footer
 
 
-      ###  PAGE CONSTRUCTION WITH LIQUID
- 
-      ###
-      ###  default.html layout
-      ###
+      
       
            <html>
            {% include head.html %}
@@ -170,15 +133,7 @@ page footer
 	     </body>  
            </html>     
 
-      ###
-      ###  {% include xxxx.html %}
-      ###  is replaced by content
-      ###  from the file xxxx.html
-      ###  in the _includes folder.
-      ### 
       
-      ###  {% include xxxx.html %} Files: 
-
        >>  head.html
        >>  header.html
        >>  footer.html
